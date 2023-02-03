@@ -1,0 +1,20 @@
+[
+    {
+        "image": "assets/images/image_1.png",
+        "title": "Samantha",
+        "country": "Rússia",
+        "price": 440
+    },
+    {
+        "image": "assets/images/image_2.png",
+        "title": "Angelica",
+        "country": "Brasil",
+        "price": 120
+    },
+    {
+        "image": "assets/images/image_3.png",
+        "title": "Julia",
+        "country": "Alemanha",
+        "price": 650
+    }
+]

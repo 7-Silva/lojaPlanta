@@ -1,0 +1,47 @@
+{
+    "users": [
+        {
+            "id": "0",
+            "name": "Robert",
+            "email": "robert@gmail.com",
+            "password": "123"
+        },
+        {
+            "id": "1",
+            "name": "Carls",
+            "email": "carls@gmail.com",
+            "password": "1234"
+        }
+    ],
+    "products": [
+        {
+            "id": "0",
+            "title": "Flutter 2"
+        },
+        {
+            "id": "1",
+            "title": "React Native"
+        },
+        {
+            "title": "Ionic",
+            "id": "2"
+        }
+    ],"plantas":[  {
+        "image": "assets/images/image_1.png",
+        "title": "Samantha",
+        "country": "Rússia",
+        "price": 440
+    },
+    {
+        "image": "assets/images/image_2.png",
+        "title": "Angelica",
+        "country": "Brasil",
+        "price": 120
+    },
+    {
+        "image": "assets/images/image_3.png",
+        "title": "Julia",
+        "country": "Alemanha",
+        "price": 650
+    }]
+}
